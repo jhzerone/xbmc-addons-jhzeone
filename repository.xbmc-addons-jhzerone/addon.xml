@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc-addons-jhzerone"
+        name="jhzerone Add-ons"
+        version="0.0.1"
+        provider-name="jhzrone">
+    <extension point="xbmc.addon.repository"
+            name="jhzerone Add-ons">
+        <dir minversion="19.0.0">
+            <info compressed="true">https://gitee.com/jhzerone/xbmc-addons-jhzeone/raw/publish/addon.xml</info>
+            <checksum>https://gitee.com/jhzerone/xbmc-addons-jhzeone/raw/publish/addon.xml.md5</checksum>
+            <datadir zip="true">https://gitee.com/jhzerone/xbmc-addons-jhzeone/raw/publish/repos</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>jhzerone Add-ons Repository</summary>
+        <summary lang="zh">自用学习插件</summary>
+        <disclaimer lang="zh">单纯学习使用</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
 
