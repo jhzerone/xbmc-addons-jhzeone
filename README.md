@@ -1,1 +1,1 @@
-# xbmc-addons-jhzeone
+技术学习仓库, 如有侵权, 联系删除
