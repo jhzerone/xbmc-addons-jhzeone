@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-  <addon id="service.zerone.onlinevideo" name="Online Videos" version="0.0.1" provider-name="jhzerone">
+<addon id="service.zerone.onlinevideo" name="Online Videos" version="0.0.1" provider-name="jhzerone">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -15,5 +14,4 @@
         <platform>all</platform>
         <source>https://github.com/jhzerone/service.zerone.onlinevideo</source>
     </extension>
-  </addon>
-</addons>
+</addon>
